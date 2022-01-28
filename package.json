@@ -1,7 +1,7 @@
 {
-  "name": "goit-react-hw-00-components",
+  "name": "test-react-router",
   "version": "0.1.0",
-  "homepage": "https://memx86.github.io/goit-react-hw-00-components/",
+  "homepage": "https://memx86.github.io/test-react-router/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",

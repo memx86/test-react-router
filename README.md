@@ -1,3 +1,3 @@
-# goit-react-hw-00
+# test-react-router
 
-React homework 00 https://memx86.github.io/goit-react-hw-00/
+test-react-router https://memx86.github.io/test-react-router/

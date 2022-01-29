@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import PropTypes from "prop-types";
 import s from "./Navigation.module.css";
 
 function Navigation(props) {
@@ -10,7 +9,5 @@ function Navigation(props) {
     </nav>
   );
 }
-
-Navigation.propTypes = {};
 
 export default Navigation;

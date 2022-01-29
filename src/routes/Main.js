@@ -1,5 +1,3 @@
-import PropTypes from "prop-types";
-
 function main(props) {
   return (
     <div>
@@ -7,7 +5,5 @@ function main(props) {
     </div>
   );
 }
-
-main.propTypes = {};
 
 export default main;
